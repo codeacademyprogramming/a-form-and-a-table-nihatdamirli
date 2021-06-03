@@ -1,0 +1,27 @@
+.input{
+    margin-bottom: 15px;
+    padding: 9px;
+    width: 20%;
+}
+
+button{
+    width: 22%;
+    padding: 2px;
+    background-color: rgb(71, 141, 71);
+
+    border: 0px;
+}
+#divText{
+    width: 275px;
+    background-color:#f7f5f5;
+    height: 40px;
+    border-bottom: 1px solid rgb(177 171 171);
+}
+#divText p{
+
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+

@@ -1,0 +1,18 @@
+thead{
+    background-color: green;
+    color: white;
+}
+#row-id1{
+    background-color: rgb(144, 170, 144);
+    color: black;
+}
+#row-id2{
+    background-color: rgb(196, 204, 196);
+    color: black;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+}
